@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I am a Computer Science student with a strong focus on IT system security. As an IT specialist, I have developed expertise in cybersecurity and am highly motivated to deepen my knowledge in this field. My passion for technology drives me to stay up-to-date with the latest advancements and continually expand my skills in securing systems and networks.
+
