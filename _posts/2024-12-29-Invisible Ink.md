@@ -4,6 +4,7 @@ categories: [CTF, Wargame2024]
 tags: [misc]
 date: 2024-12-29 09:56:00 +0100
 media_subpath: /assets/img/posts/wargame2024/
+description: Writup of "Invisible Ink" challange in Wargame 2024.
 ---
 
 ## Challange 

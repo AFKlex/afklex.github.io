@@ -4,6 +4,7 @@ categories: [CTF, Wargame2024]
 tags: [forensic]
 date: 2024-12-28 21:13:00 +0100
 media_subpath: /assets/img/posts/wargame2024/
+description: Writup of "I Cant Manipulate People" challange in Wargame 2024.
 ---
 ## Challange
 Partial traffic packet captured from hacked machine, can you analyze the provided pcap file to extract the message from the packet perhaps by reading the packet data?
